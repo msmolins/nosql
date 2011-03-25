@@ -1,0 +1,543 @@
+( [
+        {
+            "country_name": "Afghanistan",
+            "total": 3
+        },
+        {
+            "country_name": "Albania",
+            "total": 4
+        },
+        {
+            "country_name": "Algeria",
+            "total": 1
+        },
+        {
+            "country_name": "Andorra",
+            "total": 1
+        },
+        {
+            "country_name": "Argentina",
+            "total": 52
+        },
+        {
+            "country_name": "Armenia",
+            "total": 2
+        },
+        {
+            "country_name": "Aruba",
+            "total": 1
+        },
+        {
+            "country_name": "Australia",
+            "total": 1766
+        },
+        {
+            "country_name": "Austria",
+            "total": 24
+        },
+        {
+            "country_name": "Azerbaijan",
+            "total": 2
+        },
+        {
+            "country_name": "Bangladesh",
+            "total": 8
+        },
+        {
+            "country_name": "Belgium",
+            "total": 62
+        },
+        {
+            "country_name": "Belize",
+            "total": 4
+        },
+        {
+            "country_name": "Bolivia",
+            "total": 1
+        },
+        {
+            "country_name": "Bosnia and Herzegovina",
+            "total": 6
+        },
+        {
+            "country_name": "Brazil",
+            "total": 60
+        },
+        {
+            "country_name": "Brunei",
+            "total": 4
+        },
+        {
+            "country_name": "Bulgaria",
+            "total": 11
+        },
+        {
+            "country_name": "Canada",
+            "total": 1812
+        },
+        {
+            "country_name": "Channel Islands",
+            "total": 1
+        },
+        {
+            "country_name": "Chile",
+            "total": 21
+        },
+        {
+            "country_name": "China",
+            "total": 123
+        },
+        {
+            "country_name": "Colombia",
+            "total": 53
+        },
+        {
+            "country_name": "Costa Rica",
+            "total": 3
+        },
+        {
+            "country_name": "country_of_origin",
+            "total": 1
+        },
+        {
+            "country_name": "Croatia",
+            "total": 8
+        },
+        {
+            "country_name": "Cyprus",
+            "total": 3
+        },
+        {
+            "country_name": "Czech Republic",
+            "total": 34
+        },
+        {
+            "country_name": "Czechoslovakia",
+            "total": 9
+        },
+        {
+            "country_name": "Denmark",
+            "total": 37
+        },
+        {
+            "country_name": "Ecuador",
+            "total": 2
+        },
+        {
+            "country_name": "Egypt",
+            "total": 3
+        },
+        {
+            "country_name": "England",
+            "total": 21
+        },
+        {
+            "country_name": "English Language",
+            "total": 3
+        },
+        {
+            "country_name": "Estonia",
+            "total": 3
+        },
+        {
+            "country_name": "Europe",
+            "total": 3
+        },
+        {
+            "country_name": "European Union",
+            "total": 1
+        },
+        {
+            "country_name": "Federal Republic of Yugoslavia",
+            "total": 2
+        },
+        {
+            "country_name": "Finland",
+            "total": 41
+        },
+        {
+            "country_name": "France",
+            "total": 171
+        },
+        {
+            "country_name": "Georgia",
+            "total": 2
+        },
+        {
+            "country_name": "German Democratic Republic",
+            "total": 1
+        },
+        {
+            "country_name": "Germany",
+            "total": 270
+        },
+        {
+            "country_name": "Ghana",
+            "total": 2
+        },
+        {
+            "country_name": "Global",
+            "total": 2
+        },
+        {
+            "country_name": "Greece",
+            "total": 31
+        },
+        {
+            "country_name": "Haiti",
+            "total": 1
+        },
+        {
+            "country_name": "Honduras",
+            "total": 1
+        },
+        {
+            "country_name": "Hong Kong",
+            "total": 324
+        },
+        {
+            "country_name": "Hungary",
+            "total": 9
+        },
+        {
+            "country_name": "Iceland",
+            "total": 16
+        },
+        {
+            "country_name": "India",
+            "total": 608
+        },
+        {
+            "country_name": "Indonesia",
+            "total": 22
+        },
+        {
+            "country_name": "Iran",
+            "total": 20
+        },
+        {
+            "country_name": "Ireland",
+            "total": 3
+        },
+        {
+            "country_name": "Isle of Man",
+            "total": 1
+        },
+        {
+            "country_name": "Israel",
+            "total": 30
+        },
+        {
+            "country_name": "Italy",
+            "total": 72
+        },
+        {
+            "country_name": "Jamaica",
+            "total": 3
+        },
+        {
+            "country_name": "Japan",
+            "total": 1463
+        },
+        {
+            "country_name": "Jordan",
+            "total": 4
+        },
+        {
+            "country_name": "Kazakhstan",
+            "total": 3
+        },
+        {
+            "country_name": "Kenya",
+            "total": 4
+        },
+        {
+            "country_name": "Kingdom of Great Britain",
+            "total": 9
+        },
+        {
+            "country_name": "Korea",
+            "total": 24
+        },
+        {
+            "country_name": "Kosovo",
+            "total": 2
+        },
+        {
+            "country_name": "Kurdistan",
+            "total": 1
+        },
+        {
+            "country_name": "Kuwait",
+            "total": 1
+        },
+        {
+            "country_name": "Latvia",
+            "total": 4
+        },
+        {
+            "country_name": "Lebanon",
+            "total": 9
+        },
+        {
+            "country_name": "Lithuania",
+            "total": 5
+        },
+        {
+            "country_name": "London",
+            "total": 1
+        },
+        {
+            "country_name": "Malaysia",
+            "total": 70
+        },
+        {
+            "country_name": "Malta",
+            "total": 2
+        },
+        {
+            "country_name": "Melbourne",
+            "total": 1
+        },
+        {
+            "country_name": "Mexico",
+            "total": 174
+        },
+        {
+            "country_name": "Middle East",
+            "total": 1
+        },
+        {
+            "country_name": "Mongolia",
+            "total": 1
+        },
+        {
+            "country_name": "Montenegro",
+            "total": 1
+        },
+        {
+            "country_name": "Morocco",
+            "total": 3
+        },
+        {
+            "country_name": "Nepal",
+            "total": 2
+        },
+        {
+            "country_name": "Netherlands",
+            "total": 659
+        },
+        {
+            "country_name": "Netherlands Antilles",
+            "total": 1
+        },
+        {
+            "country_name": "New Zealand",
+            "total": 229
+        },
+        {
+            "country_name": "Nigeria",
+            "total": 4
+        },
+        {
+            "country_name": "Northern Ireland",
+            "total": 9
+        },
+        {
+            "country_name": "Norway",
+            "total": 116
+        },
+        {
+            "country_name": "Pakistan",
+            "total": 31
+        },
+        {
+            "country_name": "Palestinian National Authority",
+            "total": 1
+        },
+        {
+            "country_name": "Panama",
+            "total": 1
+        },
+        {
+            "country_name": "Papua New Guinea",
+            "total": 1
+        },
+        {
+            "country_name": "Peru",
+            "total": 9
+        },
+        {
+            "country_name": "Philippines",
+            "total": 872
+        },
+        {
+            "country_name": "Poland",
+            "total": 69
+        },
+        {
+            "country_name": "Portugal",
+            "total": 24
+        },
+        {
+            "country_name": "Puerto Rico",
+            "total": 9
+        },
+        {
+            "country_name": "Qu\ufffd?\u00a9bec",
+            "total": 1
+        },
+        {
+            "country_name": "Republic of China (Taiwan)",
+            "total": 92
+        },
+        {
+            "country_name": "Republic of Ireland",
+            "total": 202
+        },
+        {
+            "country_name": "Republic of Macedonia",
+            "total": 5
+        },
+        {
+            "country_name": "Romania",
+            "total": 6
+        },
+        {
+            "country_name": "Russia",
+            "total": 25
+        },
+        {
+            "country_name": "Saudi Arabia",
+            "total": 2
+        },
+        {
+            "country_name": "Scotland",
+            "total": 40
+        },
+        {
+            "country_name": "Serbia",
+            "total": 13
+        },
+        {
+            "country_name": "Serbia and Montenegro",
+            "total": 4
+        },
+        {
+            "country_name": "Singapore",
+            "total": 109
+        },
+        {
+            "country_name": "Slovakia",
+            "total": 6
+        },
+        {
+            "country_name": "Slovenia",
+            "total": 5
+        },
+        {
+            "country_name": "South Africa",
+            "total": 29
+        },
+        {
+            "country_name": "South Korea",
+            "total": 443
+        },
+        {
+            "country_name": "Soviet Union",
+            "total": 4
+        },
+        {
+            "country_name": "Spain",
+            "total": 66
+        },
+        {
+            "country_name": "Sri Lanka",
+            "total": 4
+        },
+        {
+            "country_name": "Swaziland",
+            "total": 1
+        },
+        {
+            "country_name": "Sweden",
+            "total": 126
+        },
+        {
+            "country_name": "Switzerland",
+            "total": 5
+        },
+        {
+            "country_name": "Syria",
+            "total": 2
+        },
+        {
+            "country_name": "Taiwan",
+            "total": 30
+        },
+        {
+            "country_name": "Tamil Nadu",
+            "total": 1
+        },
+        {
+            "country_name": "Thailand",
+            "total": 25
+        },
+        {
+            "country_name": "Trinidad and Tobago",
+            "total": 1
+        },
+        {
+            "country_name": "Tunisia",
+            "total": 2
+        },
+        {
+            "country_name": "Turcountry_name",
+            "total": 21
+        },
+        {
+            "country_name": "Ukraine",
+            "total": 3
+        },
+        {
+            "country_name": "United Arab Emirates",
+            "total": 6
+        },
+        {
+            "country_name": "United Kingdom",
+            "total": 6766
+        },
+        {
+            "country_name": "US",
+            "total": 12218
+        },
+        {
+            "country_name": "Uruguay",
+            "total": 1
+        },
+        {
+            "country_name": "Vanuatu",
+            "total": 1
+        },
+        {
+            "country_name": "Venezuela",
+            "total": 21
+        },
+        {
+            "country_name": "Vietnam",
+            "total": 3
+        },
+        {
+            "country_name": "Wales",
+            "total": 22
+        },
+        {
+            "country_name": "West Germany",
+            "total": 5
+        },
+        {
+            "country_name": "Yugoslavia",
+            "total": 2
+        }
+    ]
+);
