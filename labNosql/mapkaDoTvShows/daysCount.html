@@ -1,7 +1,7 @@
 <html>
 <head>
-  <script type='text/javascript' src='http://www.google.com/jsapi'></script>
-  <script type='text/javascript'>
+  <script type='text/javascript' src='http://www.google.com/jsapi'></script> 
+   <script type='text/javascript'>
     google.load("jquery", "1.4.2");
     google.load('visualization', '1', {'packages': ['geomap']});
  
@@ -9,7 +9,7 @@
  
     function init_map(){
       $.ajax({
-        url: 'country_list_json',
+        url: 'file_json',
         success: drawMap
       });      
     }
@@ -20,11 +20,11 @@
  
       data.addRows(json_data.length);
       data.addColumn('string', 'Country');
-      data.addColumn('number', 'Ilosc programow telewizyjnych');
+      data.addColumn('number', 'Czas programów w dniach');
       data.addColumn('string','HOVER', 'Details');
       for(i=0;i<json_data.length;i++){
-        data.setValue(i, 0, json_data[i]['country_name']);
-        data.setValue(i, 1, parseInt(json_data[i]['total']));
+        data.setValue(i, 0, json_data[i]['nation']);
+        data.setValue(i, 1, parseFloat(json_data[i]['timeTotal']));
         data.setValue(i, 2, json_data[i]['country_name']);
       }
  
@@ -35,15 +35,14 @@
       options['height'] = '600px';
       var container = document.getElementById('map_canvas');
       var geomap = new google.visualization.GeoMap(container);
- 
-			
- 
+ 	
       geomap.draw(data, options);
   };
-  </script> 
-</head>
+  </script>
+  
+  </head>
  
 <body>
-  <center><div id='map_canvas' style="width:1000px;height:1000px"></div></center>
+ <center> <div id='map_canvas' style="width:1000px;height:1000px"></div></center>
 </body>
 </html>
