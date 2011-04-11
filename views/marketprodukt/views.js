@@ -1,0 +1,1 @@
+var couchapp = require('couchapp');ddoc = {    _id: '_design/marketproduct'  , views: {}}module.exports = ddoc;ddoc.views.toTimeline = {  map: function(doc) {    var val = doc.CategoryName;    emit({category: doc.CategoryName, group: doc.GroupName}, val);  },  reduce: "_count"}
